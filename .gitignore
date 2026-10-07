@@ -1,0 +1,6 @@
+library-catalog
+library-catalog-test
+library_data.txt
+*.o
+*.exe
+a.out
