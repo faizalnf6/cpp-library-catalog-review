@@ -3,8 +3,7 @@ linux supported llp native logic code for organizing book. reviewed under remote
 
 ---
 
-# C++ Library Catalog  
-### Majestic Exarch Edition — Ethereum · Books · Information Intelligence
+# C++ Library Catalog
 
 A beginner-friendly command-line library catalog that manages books across classic literature, **Ethereum / blockchain**, and **information intelligence** (AI, causal reasoning, superintelligence).
 
