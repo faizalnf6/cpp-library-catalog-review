@@ -1,5 +1,5 @@
 # C++ Grob and Deal Review Code
-linux supported llp native logic code for organizing book. reviewed under remote phone programming.
+Linux supported LLP project, use native logic code for organizing book. reviewed under remote phone programming.
 
 ---
 
